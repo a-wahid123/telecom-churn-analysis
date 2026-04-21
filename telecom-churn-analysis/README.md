@@ -21,7 +21,6 @@ Comprehensive churn analysis and retention strategy for a telecom company, combi
 ## 🛠️ Tech Stack
 
 - Python (pandas, matplotlib, seaborn, scikit-learn)
-- SQL
 - Power BI
 - Jupyter Notebooks
 
