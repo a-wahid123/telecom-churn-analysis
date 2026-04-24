@@ -2,36 +2,36 @@
 
 End-to-end Customer Success project combining churn prediction, customer health scoring, and operational playbooks to help CS teams proactively retain at-risk customers and drive expansion.
 
-# Key Results
+### Key Results
 - Analyzed 7,043 customers with a 26.5% churn rate
 - Identified $1.45M annual revenue loss
 - Built a predictive churn model (81.9% accuracy)
 - Designed a Red / Yellow / Green health scoring system
 - Developed retention strategies targeting ~$1.01M recoverable revenue
 
-# What I Built
+### What I Built
 - Churn Prediction Model
 - Flags high-risk customers using behavioral and contract data
 - Customer Health Score System
 - Combines churn probability, tenure risk, and contract type into a single prioritisation score
 
-# CS Action Framework
+### CS Action Framework
 - 🔴 Critical → Immediate intervention (24–48 hrs)
 - 🟡 At Risk → Proactive check-ins
 - 🟢 Healthy → Retention + upsell focus
 
-# Power BI Dashboard (4 Pages)
+### Power BI Dashboard (4 Pages)
 - Executive KPIs
 - Churn drivers
 - Revenue impact
 - Customer health monitor
 
-# How a CS Team Uses This
+### How a CS Team Uses This
 - Daily: Identify and contact highest-risk accounts
 - Weekly: Track movement across health categories
 - Monthly: Prioritise retention vs expansion based on revenue impact
 
-# Tools Used
+### Tools Used
 Python (pandas, scikit-learn), Power BI, Excel
 
 ** Portfolio deep-dive:**
